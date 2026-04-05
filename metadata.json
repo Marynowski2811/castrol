@@ -1,0 +1,7 @@
+{
+  "name": "Castrol Lubricants Hub",
+  "description": "Plataforma profissional de e-commerce para óleos e lubrificantes Castrol, com controle de vendas, pagamentos e rastreio de entregas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
